@@ -4,6 +4,7 @@ title:  "mysql 忘记root密码"
 description: "mysql 忘记root密码，mariaDB忘记root密码"
 date:   2021-08-30 12:52:00 +0800
 categories: mysql,mariaDB
+category: mysql
 tags: [mysql, mariaDB]
 ---
 #  mysql 忘记root密码
@@ -19,4 +20,4 @@ tags: [mysql, mariaDB]
 
  https://dev.mysql.com/doc/refman/8.0/en/resetting-permissions.html
 
-![image-20210830123152440](\assets\images\image-20210830123152440.png)
+![image-20210830123152440](assets\images\image-20210830123152440.png)

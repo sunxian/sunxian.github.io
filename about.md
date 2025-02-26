@@ -1,10 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
-- 这是个blog
 
+This is an example page!
 
-
-
+It's very similar to a `post` layout, with the only difference that the publish date is not shown!
